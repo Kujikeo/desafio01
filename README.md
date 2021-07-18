@@ -3,13 +3,14 @@ Esse repositório foi feito com base em um desafio passado a minha pessoa.
 
 # 🔎 Sobre 
 
-<p>Trata-se de um desafio de criar uma "api" para cadastrar projeto e cada projeto pode-se cadastrar tasks(tarefas)</p>
+<p>Trata-se de um desafio de criar uma "api" para cadastrar projeto e cada projeto pode-se cadastrar tasks(tarefas) ultilizando express</p>
 
 # ⚔ Tecnologias
 
 O projeto fez uso das seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
 - [JavaScript](https://www.javascript.com/)
 - [JEST](https://jestjs.io/pt-BR/docs/getting-started)
 - [SUPERTEST](https://github.com/visionmedia/supertest#readme)
